@@ -1,8 +1,6 @@
 name: Bug Report #2
 description: File a bug report
 title: "Feature: "
-labels: ''
-projects: ''
 assignees:
   - octocat
 body:
